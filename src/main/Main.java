@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Du lieu edited");
 		System.out.println("Check commit");
 		System.out.println("Branch test-Branch");
+		System.out.println("Merge from test-branch");
 
 	}
 
